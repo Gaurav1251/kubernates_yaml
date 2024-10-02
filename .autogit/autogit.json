@@ -6,9 +6,7 @@
   "commitMessage": "--- Auto Git Commit ---",
   "locale": "en-US",
   "timeZone": "Europe/Berlin",
-   
   "autogit.autoCommit": true,
   "autogit.autoPush": true,
   "autogit.autoPull": true
-
 }
