@@ -9,5 +9,7 @@
   "autogit.autoCommit": true,
   "autogit.autoPush": true,
   "autogit.autoPull": true,
-  
+  "autogit.pullBeforePush": true, 
+  "autogit.remote": "origin", 
+  "autogit.branch": "main" 
 }
