@@ -8,5 +8,6 @@
   "timeZone": "Europe/Berlin",
   "autogit.autoCommit": true,
   "autogit.autoPush": true,
-  "autogit.autoPull": true
+  "autogit.autoPull": true,
+  
 }
